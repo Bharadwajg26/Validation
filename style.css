@@ -1,0 +1,16 @@
+.main{
+background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149009911.jpg?w=996&t=st=1663001019~exp=1663001619~hmac=8f3af2ff1491ebb8846c134f03ba9caae7a84cfb2fe85c15ece2a85b2487867e");
+background-size: cover;
+height: 100vh;
+text-align: center;
+}
+.head{
+color: blue;
+font-family:Roboto;
+font-size: 20px;
+}
+.image{
+text-align: center;
+height: 100px;
+width: 140px;
+}
